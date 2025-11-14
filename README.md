@@ -1,5 +1,4 @@
 # Diligent_Assignment
-# Diligent Assignment
 
 This project generates synthetic e-commerce datasets (CSV files) and loads them into an SQLite database. It also provides a sample SQL query for analyzing user purchases with payment details.
 
